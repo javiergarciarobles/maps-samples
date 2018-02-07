@@ -1,0 +1,16 @@
+Leaflet
+
+https://api.mapbox.com/styles/v1/javiergarciarobles/cjd3b40u72h3k2rk3j08h3oue/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiamF2aWVyZ2FyY2lhcm9ibGVzIiwiYSI6ImNqY2pnbWVqaDJibDcycXBhbXByam80NWYifQ.fG-IMWMCOBFDylPhkWe3eQ
+
+Mapbox GL
+
+mapbox://styles/javiergarciarobles/cjd3b40u72h3k2rk3j08h3oue
+
+Access Token
+
+pk.eyJ1IjoiamF2aWVyZ2FyY2lhcm9ibGVzIiwiYSI6ImNqY2pnbWVqaDJibDcycXBhbXByam80NWYifQ.fG-IMWMCOBFDylPhkWe3eQ
+
+
+Accidentes MAP ID
+
+javiergarciarobles.3v6gmnbu
